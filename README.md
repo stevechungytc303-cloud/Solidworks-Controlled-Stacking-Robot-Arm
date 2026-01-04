@@ -10,6 +10,7 @@ This project uses macros created with SolidWorks API to extract pick-up and drop
 </div>
 
 - **Payload Capacity**: Can lift and move objects up to 1.5kg within a 50cm radius using a vacuum suction mechanism for reliable pick-and-place operations
+
 - **Kinematics**: Uses inverse kinematics to calculate joint angles for reaching target positions in coordinate system
 
 **CAD Link**: (https://grabcad.com/library/solidworks-controlled-stacking-robot-arm-1)
