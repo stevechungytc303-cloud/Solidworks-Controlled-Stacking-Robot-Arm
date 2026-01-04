@@ -3,7 +3,7 @@ This project uses macros created with SolidWorks API to extract pick-up and drop
 
 ## Robot Info
 ![Robotic Arm](SolidworksControlledStackingRobotImage.png)
-- **Gearboxes**: Three custom-designed structurally fused 1:25 cycloidal gearboxes that provide 15 Nm of torque and compact form factor
+- **Gearboxes**: Three custom-designed structurally fused 1:20 cycloidal gearboxes that provide 15 Nm of torque and compact form factor
 <div style="display: flex; gap: 10px;">
   <img src="./Screenshot%202026-01-04%20182313.png" width="300">
   <img src="./Screenshot%202026-01-04%20181729.png" width="300">
