@@ -4,6 +4,8 @@ This project uses macros created with SolidWorks API to extract pick-up and drop
 ## Robot Info
 ![Robotic Arm](SolidworksControlledStackingRobotImage.png)
 - **Gearboxes**: Three custom-designed 1:25 cycloidal gearboxes that provide 15 Nm of torque and compact form factor
+![Screenshot 2026-01-04 181712](path/to/Screenshot-2026-01-04-181712.png)
+![Screenshot 2026-01-04 181729](path/to/Screenshot-2026-01-04-181729.png)
 - **Payload Capacity**: Can lift and move objects up to 1.5kg within a 50cm radius using a vacuum suction mechanism for reliable pick-and-place operations
 - **Kinematics**: Uses inverse kinematics to calculate joint angles for reaching target positions in coordinate system
 
