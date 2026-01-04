@@ -13,7 +13,7 @@ This project uses macros created with SolidWorks API to extract pick-up and drop
 
 - **Kinematics**: Uses inverse kinematics to calculate joint angles for reaching target positions in coordinate system
 
-**CAD Link**: (https://grabcad.com/library/solidworks-controlled-stacking-robot-arm-1)
+**CAD Link**: (https://cad.onshape.com/documents/097e38ababde583614ff8f42/w/25279c4533738fe7fa96ac7e/e/bf08222572276364fd7f60fc?renderMode=0&uiState=695af7f7129aa994abad79a8)
 
 ## Demo Video
 
