@@ -8,6 +8,7 @@ This project uses macros created with SolidWorks API to extract pick-up and drop
   <img src="./Screenshot%202026-01-04%20182313.png" width="300">
   <img src="./Screenshot%202026-01-04%20181729.png" width="300">
 </div>
+
 - **Payload Capacity**: Can lift and move objects up to 1.5kg within a 50cm radius using a vacuum suction mechanism for reliable pick-and-place operations
 - **Kinematics**: Uses inverse kinematics to calculate joint angles for reaching target positions in coordinate system
 
