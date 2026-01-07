@@ -46,3 +46,10 @@ Created SolidWorks Macros with the SolidWorks API that extract pick‑up and dro
 ## Demo Video
 
 [![Robot Demo](https://img.youtube.com/vi/8PGG2dZVc4I/0.jpg)](https://www.youtube.com/shorts/8PGG2dZVc4I)
+
+## CAD Files
+
+The full CAD model for this project is available on GrabCAD:
+
+[**SolidWorks Controlled Stacking Robot Arm – GrabCAD**](https://grabcad.com/library/solidworks-controlled-stacking-robot-arm-1)
+
