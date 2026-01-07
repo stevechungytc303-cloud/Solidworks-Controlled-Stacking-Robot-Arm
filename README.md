@@ -32,7 +32,7 @@ Wired an Arduino to a CNC shield and a 12V power supply to drive the three stepp
 <img src="./images/IMG_0510.webp" width="300">
 
 
-## Inverse Kinematics and Linear Propagation Program
+## Inverse Kinematics and Linear Propagation Programs
 
 Built an inverse kinematics system that converts Cartesian XYZ coordinates into robot joint‑angle instructions, using geometric relationships to determine the required joint positions. Also implemented a linear propagation system that enables the end effector to move in straight or diagonal paths by dynamically adjusting motor angle speeds.
 
