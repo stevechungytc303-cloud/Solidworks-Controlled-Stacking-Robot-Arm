@@ -4,7 +4,7 @@
 
 I built this robot arm in the summer before university started. It’s fully 3D‑printed with my Ender 3. It features custom‑designed cycloidal gearboxes, a bar‑linkage system inspired by industrial palletizing robots, an inverse‑kinematics‑based coordinate motion system built from scratch, and SolidWorks macros that let me directly control the robot inside the CAD software.
 
-*[Click here to skip to Demo Video (Pressing this scrolls you down to bottom of page)](#demo-video-youtube)*
+*[Click here to skip to Demo Video](#demo-video-youtube)*
 
 
 ## Gearboxes
