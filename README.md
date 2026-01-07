@@ -21,7 +21,7 @@ Designed three cycloidal gearboxes for NEMA 17 motors. All of them are structura
 
 Implemented a bar‑linkage system inspired by industrial palletizing robots to keep the end effector perpetually parallel to the floor throughout its motion. This enables the use of a pneumatic vacuum‑suction mechanism for reliable pick‑and‑place operations.
 
-<img src="./images/2026-01-0619-33-021online-video-cutter.com1-ezgif.com-cut.gif" width="300">
+<img src="images/2026-01-0619-33-021online-video-cutter.com1-ezgif.com-cut.gif" width="300">
 
 
 ## Wiring Schematics
