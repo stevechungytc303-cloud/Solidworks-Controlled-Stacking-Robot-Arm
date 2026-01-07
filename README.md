@@ -12,8 +12,9 @@ I built this robot arm in the summer before university started. It’s fully 3D�
 Designed three cycloidal gearboxes for NEMA 17 motors. All of them are structurally integrated into the frame for a lighter and more dynamic design. The first two, mounted in the top and bottom joints, use a 1:20 ratio and deliver 15 Nm of torque. The last gearbox, mounted at the base, uses a 1:15 ratio, delivers 12 Nm of torque, and features a slightly different eccentrically driven cycloidal mechanism.
 
 <div style="display: flex; gap: 10px;">
-  <img src="./images/Screenshot%202026-01-04%20182313.png" width="300">
-  <img src="./images/Screenshot%202026-01-04%20181729.png" width="300">
+  <img src="./images/Screenshot%202026-01-04%20182313.png" width="250">
+  <img src="./images/Screenshot%202026-01-04%20181729.png" width="250">
+  <img src="./images/Screenshot%202026-01-06%20202453.png" width="250">
 </div>
 
 
