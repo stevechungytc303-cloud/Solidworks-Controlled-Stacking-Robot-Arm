@@ -2,14 +2,18 @@
 
 <img src="./SolidworksControlledStackingRobotImage.png">
 
-I built this robot arm in the summer before university started. It’s fully 3D‑printed with my Ender 3, except for the bearings, screws, and aluminum rods. It features custom‑designed cycloidal gearboxes, a bar‑linkage system inspired by industrial palletizing robots, an inverse‑kinematics‑based coordinate motion system built from scratch, and SolidWorks macros that let me directly control the robot inside the CAD software.
+I built this robot arm in the summer before university started. It’s fully 3D‑printed with my Ender 3, except for the bearings, screws, and aluminum rods.
+
+It features custom‑designed cycloidal gearboxes, a bar‑linkage system inspired by industrial palletizing robots, an inverse‑kinematics‑based coordinate motion system built from scratch, and SolidWorks macros that let me directly control the robot inside the CAD software.
 
 (Skip to bottom for Demo Video)
 
 
 ## Gearboxes
 
-Designed three cycloidal gearboxes for NEMA 17 motors. All of them are structurally integrated into the frame for a lighter and more dynamic design. The first two, mounted in the top and bottom joints, use a 1:20 ratio and deliver 15 Nm of torque. The last gearbox, mounted at the base, uses a 1:15 ratio, delivers 12 Nm of torque, and features a slightly different eccentrically driven cycloidal mechanism.
+Designed three cycloidal gearboxes for NEMA 17 motors. All of them are structurally integrated into the frame for a lighter and more dynamic design.
+
+The first two, mounted in the top and bottom joints, use a 1:20 ratio and deliver 15 Nm of torque. The last gearbox, mounted at the base, uses a 1:15 ratio, delivers 12 Nm of torque, and features a slightly different eccentrically driven cycloidal mechanism.
 
 <div style="display: flex; gap: 10px;">
   <img src="./Screenshot%202026-01-04%20182313.png" width="300">
@@ -40,16 +44,18 @@ Built an inverse kinematics system that converts Cartesian XYZ coordinates into 
 
 ## SolidWorks Macros for Controlling Robot Arm
 
-Created SolidWorks Macros with the SolidWorks API that extract pick‑up and drop‑off coordinates from two SolidWorks assembly files: one showing the robot's starting environment and one showing the final stacked layout. After extraction, a temporary PowerShell script is generated to send the coordinates to the computer port connected to the robot. With the coordinates, the robot starts picking up and placing objects in real time to recreate the final stacked layout.
+Created SolidWorks Macros with the SolidWorks API that extract pick‑up and drop‑off coordinates from two SolidWorks assembly files: one showing the robot's starting environment and one showing the final stacked layout.
+
+After extraction, a temporary PowerShell script is generated to send the coordinates to the computer port connected to the robot. With the coordinates, the robot starts picking up and placing objects in real time to recreate the final stacked layout.
 
 
 ## Demo Video
 
 [![Robot Demo](https://img.youtube.com/vi/8PGG2dZVc4I/0.jpg)](https://www.youtube.com/shorts/8PGG2dZVc4I)
 
+
 ## CAD Files
 
 The full CAD model for this project is available on GrabCAD:
 
 [**SolidWorks Controlled Stacking Robot Arm – GrabCAD**](https://grabcad.com/library/solidworks-controlled-stacking-robot-arm-1)
-
