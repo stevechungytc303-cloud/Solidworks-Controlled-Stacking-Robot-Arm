@@ -43,7 +43,7 @@ Built an inverse kinematics system that converts Cartesian XYZ coordinates into 
 Created SolidWorks Macros with the SolidWorks API that extract pick‑up and drop‑off coordinates from two SolidWorks assembly files: one showing the robot's starting environment and one showing the final stacked layout. After extraction, a temporary PowerShell script is generated to send the coordinates to the computer port connected to the robot. With the coordinates, the robot starts picking up and placing objects in real time to recreate the final stacked layout.
 
 
-## Demo Video
+## Demo Video (Youtube)
 
 [![Robot Demo](https://img.youtube.com/vi/8PGG2dZVc4I/0.jpg)](https://www.youtube.com/shorts/8PGG2dZVc4I)
 
