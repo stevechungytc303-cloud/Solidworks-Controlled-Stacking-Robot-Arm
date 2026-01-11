@@ -41,7 +41,7 @@ Built inverse kinematics system in C++ that converts Cartesian XYZ coordinates i
 
 ## SolidWorks Macros for Controlling Robot Arm
 
-Created SolidWorks Macros with the SolidWorks API that extract pick‑up and drop‑off coordinates from two SolidWorks assembly files: one showing the robot's starting environment and one showing the final stacked layout. After extraction, a temporary PowerShell script is generated to send the coordinates to the computer port connected to the robot. With the coordinates, the robot starts picking up and placing objects in real time to recreate the final stacked layout.
+Created SolidWorks Macros with the SolidWorks API that extract pick‑up and drop‑off coordinates from two SolidWorks assembly files: one showing the robot's starting environment and one showing the final stacked layout. After extraction, a temporary PowerShell script is generated to send the coordinates to the computer port connected to the robot. With the coordinates, the robot starts picking up and placing objects in real time to recreate the final stacked layout in Solidworks.
 
 
 ### Demo Video (Youtube)
