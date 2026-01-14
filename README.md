@@ -1,4 +1,4 @@
-# SolidWorks Controlled 4-Axis Robot Arm
+# SolidWorks Controlled Stacking Robot Arm
 
 <img src="./images/SolidworksControlledStackingRobotImage.png">
 
